@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>John Doe | Full Stack Developer</title>
+        <title>Agustin Lopez | Tecnico Universitario en Informatica  </title>
         <meta
           name="description"
           content="Commit is a lightweight Git client you can open from anywhere any time you’re ready to commit your work with a single keyboard shortcut. It’s fast, beautiful, and completely unnecessary."
