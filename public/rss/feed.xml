@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Agustin Lopez</title>
+        <link>undefined</link>
+        <description>Front-end Developer</description>
+        <lastBuildDate>Wed, 02 Aug 2023 00:38:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Agustin Lopez</title>
+            <url>undefined/favicon.ico</url>
+            <link>undefined</link>
+        </image>
+        <copyright>Todos los Derechos Reservados 2023</copyright>
+        <item>
+            <title><![CDATA[Tecnico Superior Universitario en Informatica UNELLEZ-BARINAS-VENEZUELA]]></title>
+            <link>undefined/#tecnico-superior-universitario-en-informatica-unellez-barinas-venezuela</link>
+            <guid>undefined/#tecnico-superior-universitario-en-informatica-unellez-barinas-venezuela</guid>
+            <pubDate>Mon, 06 Apr 2015 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>Test</div><article><script type="text/metadata">{"id":"tecnico-superior-universitario-en-informatica-unellez-barinas-venezuela","title":"Tecnico Superior Universitario en Informatica UNELLEZ-BARINAS-VENEZUELA","date":"2015-04-06T00:00Z"}</script>
+<div class="relative mt-8 overflow-hidden rounded-xl bg-gray-50 dark:bg-gray-900 [&amp;+*]:mt-8"><img alt="" loading="lazy" width="1728" height="936" decoding="async" data-nimg="1" style="color:transparent" sizes="(min-width: 1280px) 36rem, (min-width: 1024px) 45vw, (min-width: 640px) 32rem, 95vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommit-suggestions.5cf789bd.png&amp;w=3840&amp;q=75"/><div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10 dark:ring-white/10"></div></div>
+
+<p>Me complace haber egresado de la Universidad Nacional Experimental Ezequiel Zamora como Técnico Superior en Informática. Durante mi formación, adquirí sólidos conocimientos en lenguajes de programación, desarrollo web y gestión de proyectos. Estoy emocionado por aplicar mi aprendizaje y habilidades en el campo laboral, y seguir creciendo como profesional en el apasionante mundo de la informática.</p>
+<h3 id="-habilidades-adquiridas"><svg viewBox="0 0 16 16" aria-hidden="true"><path fill="#38BDF8" d="M5.338 9.805c.11.418.439.747.857.857C7.282 10.948 8 11.44 8 12s-.718 1.052-1.805 1.338c-.418.11-.747.439-.857.857C5.052 15.281 4.56 16 4 16s-1.052-.718-1.338-1.805a1.205 1.205 0 0 0-.856-.857C.718 13.052 0 12.56 0 12s.718-1.052 1.806-1.338c.417-.11.746-.439.856-.857C2.948 8.718 3.441 8 4 8c.56 0 1.052.718 1.338 1.805Z"></path><path fill="rgb(125, 211, 252)" d="M12.717 2.432c.1.42.43.75.85.852C15.026 3.633 16 4.27 16 5s-.975 1.367-2.432 1.716c-.42.101-.75.432-.851.852C12.367 9.025 11.729 10 11 10c-.729 0-1.367-.975-1.716-2.432-.101-.42-.431-.75-.851-.852C6.975 6.367 6 5.73 6 5c0-.73.975-1.367 2.433-1.717.42-.1.75-.43.85-.85C9.634.974 10.272 0 11 0c.73 0 1.367.975 1.717 2.432Z"></path></svg> Habilidades Adquiridas</h3>
+<ul>
+<li>Programación: Dominio de lenguajes como Java, C++, entre otros, para el desarrollo de aplicaciones Moviles y  y Software.</li>
+<li>Desarrollo web: Habilidades en HTML, CSS, JavaScript y frameworks como React, Next Js, Nuxt.Para la creación de sitios web interactivos y responsivos.</li>
+<li>Gestión de proyectos: Capacidad para planificar, coordinar y ejecutar proyectos informáticos de manera eficiente, cumpliendo con plazos y presupuestos.</li>
+<li>Resolución de problemas: Habilidad para identificar y solucionar de manera efectiva los desafíos tecnológicos y de software que surjan.</li>
+<li>Análisis de sistemas: Capacidad para comprender los requerimientos del usuario y diseñar soluciones informáticas adecuadas.</li>
+<li>Seguridad informática: Conciencia sobre la importancia de la seguridad en los sistemas informáticos y conocimientos sobre prácticas de protección y prevención de riesgos.</li>
+<li>Trabajo en equipo: Experiencia colaborando con otros profesionales en proyectos multidisciplinarios y desarrollando habilidades de comunicación y cooperación.</li>
+<li>Adaptabilidad y aprendizaje continuo: Mentalidad abierta para asimilar nuevas tecnologías y enfoques en constante evolución en el campo de la informática.</li>
+</ul>
+</article>]]></content:encoded>
+            <author>lopezagustin26@gmail.com (Agustin Lopez)</author>
+        </item>
+        <item>
+            <title><![CDATA[Cursos Realizados Online]]></title>
+            <link>undefined/#cursos-realizados-online</link>
+            <guid>undefined/#cursos-realizados-online</guid>
+            <pubDate>Sun, 17 Mar 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<article><script type="text/metadata">{"id":"cursos-realizados-online","title":"Cursos Realizados Online","date":"2019-03-17T00:00Z"}</script>
+<div class="relative mt-8 overflow-hidden rounded-xl bg-gray-50 dark:bg-gray-900 [&amp;+*]:mt-8"><img alt="" loading="lazy" width="1728" height="666" decoding="async" data-nimg="1" style="color:transparent" sizes="(min-width: 1280px) 36rem, (min-width: 1024px) 45vw, (min-width: 640px) 32rem, 95vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconfiguration-files.7610785b.png&amp;w=3840&amp;q=75"/><div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10 dark:ring-white/10"></div></div>
+
+<p>A través de cursos en línea, he ampliado mis conocimientos y habilidades en diversas áreas de la informática. He participado en cursos de programación, desarrollo web, bases de datos, ciberseguridad y más. La flexibilidad y comodidad del aprendizaje en línea me permitieron adquirir nuevas competencias de manera autodidacta, lo que ha enriquecido significativamente mi perfil profesional y me ha preparado para enfrentar los desafíos tecnológicos actuales.</p>
+<h3 id="-cursos-online"><svg viewBox="0 0 16 16" aria-hidden="true"><path fill="#38BDF8" d="M5.338 9.805c.11.418.439.747.857.857C7.282 10.948 8 11.44 8 12s-.718 1.052-1.805 1.338c-.418.11-.747.439-.857.857C5.052 15.281 4.56 16 4 16s-1.052-.718-1.338-1.805a1.205 1.205 0 0 0-.856-.857C.718 13.052 0 12.56 0 12s.718-1.052 1.806-1.338c.417-.11.746-.439.856-.857C2.948 8.718 3.441 8 4 8c.56 0 1.052.718 1.338 1.805Z"></path><path fill="rgb(125, 211, 252)" d="M12.717 2.432c.1.42.43.75.85.852C15.026 3.633 16 4.27 16 5s-.975 1.367-2.432 1.716c-.42.101-.75.432-.851.852C12.367 9.025 11.729 10 11 10c-.729 0-1.367-.975-1.716-2.432-.101-.42-.431-.75-.851-.852C6.975 6.367 6 5.73 6 5c0-.73.975-1.367 2.433-1.717.42-.1.75-.43.85-.85C9.634.974 10.272 0 11 0c.73 0 1.367.975 1.717 2.432Z"></path></svg> Cursos Online</h3>
+<ul>
+<li>LinkedIn Learning &quot;desarrollo profesional, habilidades técnicas y software relacionados con el mundo laboral.&quot;</li>
+<li>Treehouse &quot;Treehouse es una plataforma en línea que ofrece una amplia gama de cursos en tecnología, desarrollo web, diseño, programación y negocios&quot;</li>
+<li>Youtube Learning &quot;Videos de aprendizaje&quot;</li>
+</ul>
+</article>]]></content:encoded>
+            <author>lopezagustin26@gmail.com (Agustin Lopez)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proyectos y App Moviles]]></title>
+            <link>undefined/#proyectos-y-app-moviles</link>
+            <guid>undefined/#proyectos-y-app-moviles</guid>
+            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<article><script type="text/metadata">{"id":"proyectos-y-app-moviles","title":"Proyectos y App Moviles","date":"2023-03-06T00:00Z"}</script>
+<div class="relative mt-8 overflow-hidden rounded-xl bg-gray-50 dark:bg-gray-900 [&amp;+*]:mt-8"><img alt="" loading="lazy" width="1728" height="936" decoding="async" data-nimg="1" style="color:transparent" sizes="(min-width: 1280px) 36rem, (min-width: 1024px) 45vw, (min-width: 640px) 32rem, 95vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-mode.93eb9a82.png&amp;w=3840&amp;q=75"/><div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10 dark:ring-white/10"></div></div>
+
+<p>I released this thing last week hoping a couple of people would say &quot;awesome job&quot; and make me feel good about what I&#x27;d built but instead I just got a ton of people shaming me on Twitter for being such a horrible person for only shipping a light UI.</p>
+<h3 id="-improvements"><svg viewBox="0 0 16 16" aria-hidden="true"><path fill="#38BDF8" d="M5.338 9.805c.11.418.439.747.857.857C7.282 10.948 8 11.44 8 12s-.718 1.052-1.805 1.338c-.418.11-.747.439-.857.857C5.052 15.281 4.56 16 4 16s-1.052-.718-1.338-1.805a1.205 1.205 0 0 0-.856-.857C.718 13.052 0 12.56 0 12s.718-1.052 1.806-1.338c.417-.11.746-.439.856-.857C2.948 8.718 3.441 8 4 8c.56 0 1.052.718 1.338 1.805Z"></path><path fill="rgb(125, 211, 252)" d="M12.717 2.432c.1.42.43.75.85.852C15.026 3.633 16 4.27 16 5s-.975 1.367-2.432 1.716c-.42.101-.75.432-.851.852C12.367 9.025 11.729 10 11 10c-.729 0-1.367-.975-1.716-2.432-.101-.42-.431-.75-.851-.852C6.975 6.367 6 5.73 6 5c0-.73.975-1.367 2.433-1.717.42-.1.75-.43.85-.85C9.634.974 10.272 0 11 0c.73 0 1.367.975 1.717 2.432Z"></path></svg> Improvements</h3>
+<ul>
+<li>Added dark mode support</li>
+<li>Improved input field responsiveness when writing a commit message in a project with a large number of changed files</li>
+<li>Made keyboard shortcut for opening the Commit window customizable</li>
+<li>Deleted my Twitter account</li>
+</ul>
+</article>]]></content:encoded>
+            <author>lopezagustin26@gmail.com (Agustin Lopez)</author>
+        </item>
+        <item>
+            <title><![CDATA[Commit v0.1.0]]></title>
+            <link>undefined/#commit-v010</link>
+            <guid>undefined/#commit-v010</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<article><script type="text/metadata">{"id":"commit-v010","title":"Commit v0.1.0","date":"2023-03-03T00:00Z"}</script>
+<div class="relative mt-8 overflow-hidden rounded-xl bg-gray-50 dark:bg-gray-900 [&amp;+*]:mt-8"><img alt="" loading="lazy" width="1728" height="936" decoding="async" data-nimg="1" style="color:transparent" sizes="(min-width: 1280px) 36rem, (min-width: 1024px) 45vw, (min-width: 640px) 32rem, 95vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirst-release.c5cb86d1.png&amp;w=3840&amp;q=75"/><div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10 dark:ring-white/10"></div></div>
+
+<p>Commit is a command palette-style Git client you can pull up from anywhere with a keyboard shortcut that makes it really easy to commit your work. It uses the &quot;last modified&quot; timestamp of the files in all of your projects to automatically know which project you&#x27;re in the middle of working on, so any time you pull up the UI it&#x27;s already got the right project selected — you just have to type your commit message, hit <kbd>Cmd</kbd> + <kbd>Enter</kbd> and your changes are captured.</p>
+<p>I&#x27;d be lying if I really thought this was that useful but I was looking for an excuse to learn macOS development and here we are. It&#x27;s open source at least so maybe you can find something interesting in the code even if the app itself is a total waste of hard drive space.</p></article>]]></content:encoded>
+            <author>lopezagustin26@gmail.com (Agustin Lopez)</author>
+        </item>
+    </channel>
+</rss>
